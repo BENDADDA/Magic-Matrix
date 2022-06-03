@@ -1,0 +1,8 @@
+c:\users\hdmi\documents\visual studio 2010\Projects\MagicMatrix\MagicMatrix\bin\Debug\MagicMatrix.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\MagicMatrix\MagicMatrix\bin\Debug\MagicMatrix.pdb
+c:\users\hdmi\documents\visual studio 2010\Projects\MagicMatrix\MagicMatrix\obj\x86\Debug\MagicMatrix.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\MagicMatrix\MagicMatrix\obj\x86\Debug\MagicMatrix.pdb
+F:\Archift\Projects\MagicMatrix\MagicMatrix\obj\x86\Debug\MagicMatrix.exe
+F:\Archift\Projects\MagicMatrix\MagicMatrix\obj\x86\Debug\MagicMatrix.pdb
+F:\Archift\Projects\MagicMatrix\MagicMatrix\bin\Debug\MagicMatrix.exe
+F:\Archift\Projects\MagicMatrix\MagicMatrix\bin\Debug\MagicMatrix.pdb
